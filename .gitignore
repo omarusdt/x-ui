@@ -1,5 +1,5 @@
-.idea
-tmp
+.idea omar
+tmptps
 bin/xray-darwin-arm64
 bin/config.json
 dist/
